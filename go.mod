@@ -12,7 +12,7 @@ require (
 	github.com/go-courier/gengo v0.0.0-20210824025004-5eb0e3521052
 	github.com/go-courier/httptransport v1.21.0
 	github.com/go-courier/statuserror v1.2.1
-	github.com/go-courier/x v0.0.4
+	github.com/go-courier/x v0.0.5
 	github.com/onsi/gomega v1.16.0
 	github.com/pkg/errors v0.9.1
 )

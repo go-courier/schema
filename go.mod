@@ -12,7 +12,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-courier/courier v1.5.0
 	github.com/go-courier/gengo v0.0.0-20210830081703-2ff0a49b8aa4
-	github.com/go-courier/httptransport v1.21.0
+	github.com/go-courier/httptransport v1.21.3
 	github.com/go-courier/sqlx/v2 v2.0.0-00010101000000-000000000000
 	github.com/go-courier/statuserror v1.2.1
 	github.com/go-courier/x v0.0.6

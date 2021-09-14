@@ -15,6 +15,8 @@ github.com/go-courier/courier v1.5.0/go.mod h1:C3IQ6MY80Lo9B7xH498MeyQsnI/JDWBj7
 github.com/go-courier/enumeration v1.3.1 h1:IPKGDtzrYf/G/eAgJ3lNLbtgLr4maqkGnz6avSp2RKU=
 github.com/go-courier/httptransport v1.21.6 h1:+O+CtENpcmHCFa/86n6arkPcVFnbtRNqulekDwYmWGI=
 github.com/go-courier/httptransport v1.21.6/go.mod h1:WChdvlixf++UAqjkn1ww1SZbRe894nx8mmlxYGItpRc=
+github.com/go-courier/httptransport v1.21.7 h1:YSR2dKbdJQSe5sAJL2RWObqNj3BpmC/d2nydobdm+QQ=
+github.com/go-courier/httptransport v1.21.7/go.mod h1:C+yk3WsJ4GLPrEC8DKSd4AWV1SKWfXuPjgGSW49o5/E=
 github.com/go-courier/logr v0.0.2 h1:eC1LL/PJXpa1JPlfRuWKwkBwU/uM3fUawnnS/cNV4zY=
 github.com/go-courier/logr v0.0.2/go.mod h1:d3akcgCGEB5xLNn9FBvB9ren74iO20O5Z6b26I4weig=
 github.com/go-courier/metax v1.3.0 h1:BBNqnUX+HlZrWBoqfk7I8V0L4+RCTmqBoloQBi5Do3I=
@@ -26,6 +28,8 @@ github.com/go-courier/statuserror v1.2.1 h1:npXYoaiFExHMn+NwdKE30bJz9t/s8VGG00cj
 github.com/go-courier/statuserror v1.2.1/go.mod h1:fgIlj8z6A4KDDVlpF4kcsXCzYUs9K/vXLBl6iTGU5Y8=
 github.com/go-courier/x v0.0.10 h1:LeOrRqLENN0BxKCbyJ0dsKVmzfBIjvbWJKPGlbbP+90=
 github.com/go-courier/x v0.0.10/go.mod h1:isWbRBAJwGN/EN9HT+4ujIFF/quBVTyOnqxFx+Tx7MI=
+github.com/go-courier/x v0.0.11 h1:p82Et8BRtoO2brLWIY1a2PoATyURqZX9RxwMzzYNSjs=
+github.com/go-courier/x v0.0.11/go.mod h1:isWbRBAJwGN/EN9HT+4ujIFF/quBVTyOnqxFx+Tx7MI=
 github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0/go.mod h1:fyg7847qk6SyHyPtNmDHnmrv/HOrqktSC+C9fM+CJOE=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/golang/protobuf v1.4.0-rc.1/go.mod h1:ceaxUfeHdC40wWswd/P6IGgMaK3YpKi5j83Wpe3EHw8=

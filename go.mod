@@ -15,7 +15,7 @@ require (
 	github.com/go-courier/statuserror v1.2.1
 	github.com/go-courier/x v0.0.11
 	github.com/gorilla/handlers v1.5.1
-	github.com/onsi/gomega v1.16.0
+	github.com/onsi/gomega v1.17.0
 	github.com/pkg/errors v0.9.1
 )
 

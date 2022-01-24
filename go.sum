@@ -17,6 +17,8 @@ github.com/go-courier/enumeration v1.3.1 h1:IPKGDtzrYf/G/eAgJ3lNLbtgLr4maqkGnz6a
 github.com/go-courier/enumeration v1.3.1/go.mod h1:2sYxthcOXwTby8lGAFn1Yk62ryvM/utulv38E9b9jJ4=
 github.com/go-courier/httptransport v1.21.7 h1:YSR2dKbdJQSe5sAJL2RWObqNj3BpmC/d2nydobdm+QQ=
 github.com/go-courier/httptransport v1.21.7/go.mod h1:C+yk3WsJ4GLPrEC8DKSd4AWV1SKWfXuPjgGSW49o5/E=
+github.com/go-courier/httptransport v1.21.11 h1:2UMmM4twojL1O3u/EkaNzJCrELZcSZyhJgE/hDKZ3EU=
+github.com/go-courier/httptransport v1.21.11/go.mod h1:C+yk3WsJ4GLPrEC8DKSd4AWV1SKWfXuPjgGSW49o5/E=
 github.com/go-courier/logr v0.0.2 h1:eC1LL/PJXpa1JPlfRuWKwkBwU/uM3fUawnnS/cNV4zY=
 github.com/go-courier/logr v0.0.2/go.mod h1:d3akcgCGEB5xLNn9FBvB9ren74iO20O5Z6b26I4weig=
 github.com/go-courier/metax v1.3.0 h1:BBNqnUX+HlZrWBoqfk7I8V0L4+RCTmqBoloQBi5Do3I=

@@ -26,6 +26,8 @@ github.com/go-courier/ptr v1.0.1/go.mod h1:oBnPUcGul7WHILdX53pcWGzGUUJ4GoZ/YaDTn
 github.com/go-courier/reflectx v1.3.4/go.mod h1:UP/ivAcgLD61WD44dpJlEudkcYN37Tlc5eL1e2E96SQ=
 github.com/go-courier/sqlx/v2 v2.23.11 h1:jrpSgrRSTRr2bIps+/IqjFgJ+kPS1JaBlAXJcICC+S4=
 github.com/go-courier/sqlx/v2 v2.23.11/go.mod h1:T5eaoBtLr6NgPL4TWZy0fHU3+D4JVxahQ+vXY1mjpNY=
+github.com/go-courier/sqlx/v2 v2.23.12 h1:jv7yHfqI85LGCnydj5WYSTLktWztTeqjsURTkiEHLBA=
+github.com/go-courier/sqlx/v2 v2.23.12/go.mod h1:T5eaoBtLr6NgPL4TWZy0fHU3+D4JVxahQ+vXY1mjpNY=
 github.com/go-courier/statuserror v1.2.1 h1:npXYoaiFExHMn+NwdKE30bJz9t/s8VGG00cjH4lwyjg=
 github.com/go-courier/statuserror v1.2.1/go.mod h1:fgIlj8z6A4KDDVlpF4kcsXCzYUs9K/vXLBl6iTGU5Y8=
 github.com/go-courier/x v0.1.1 h1:/0RFrxO5b8a/MtrzIrXnmsHfy80AmODOS7MPSNzj+os=

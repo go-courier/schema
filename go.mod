@@ -9,7 +9,7 @@ require (
 	github.com/go-courier/courier v1.5.0
 	github.com/go-courier/gengo v0.0.0-20211011041520-39f38a473624
 	github.com/go-courier/httptransport v1.21.11
-	github.com/go-courier/sqlx/v2 v2.23.11
+	github.com/go-courier/sqlx/v2 v2.23.12
 	github.com/go-courier/statuserror v1.2.1
 	github.com/go-courier/x v0.1.1
 	github.com/gorilla/handlers v1.5.1
